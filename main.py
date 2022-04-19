@@ -1,1 +1,0 @@
-print("hi today is the interview class for the python tutorial")
