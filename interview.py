@@ -10,8 +10,43 @@
 # operator basic 
 # one question that sir has given me to solve and the students only know that python is only a snake
 
+# -----------------learning started------------------------------
+print(1+1)
+print(1*2)
+print(2-1)
+print(4/2)
+print(5/2)
+print(5//2)
+print(2 *2*2)
+# to the power
+print(2 ** 3)
+# remainder modulus
+print(10%3)
+# string values
+print('jatin')
+print("bisht")
+print('jatin' "bisht")
+print('my aleins are very "smart"')
+# what if we want to print a string more than 10 or 30 times(using \n)
+print(20 * ' jatin\n')
+# python dont convert it using your intelligence
+print(r'jatin\nbisht\n')
 
+# varibales in python
+x = 2
+print(x)
+print(x+3)
+# variables is something which is changeable
+x = 100
+print(x)
+name = "camp k12"
+print(name)
 
+print("Please input first number pranav")
+x = input()
+print("Please input second number pranav")
+y = input()
+print(x "+" y "=" x+y)
 
 
 
