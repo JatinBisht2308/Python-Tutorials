@@ -43,10 +43,19 @@ name = "camp k12"
 print(name)
 
 print("Please input first number pranav")
-x = input()
+# python takes user input in the form of string
+x = int(input())
 print("Please input second number pranav")
-y = input()
-print(x "+" y "=" x+y)
+# so we have to change the input to integer that why we are type casting it to integer
+y = int(input())
+add = x+y
+sub = x - y 
+multi = x*y
+div = x/y
+print(add)
+print(sub)
+print(multi)
+print(div)
 
 
 
