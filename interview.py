@@ -52,10 +52,10 @@ add = x+y
 sub = x - y 
 multi = x*y
 div = x/y
-print(add)
-print(sub)
-print(multi)
-print(div)
+print("Addition of ",x, "and ",y,"is:",add)
+print("Substaction of ",x, "and ",y,"is:",sub)
+print("Multiplication of ",x, "and ",y,"is:",multi)
+print("Division of ",x, "and ",y,"is:",div)
 
 
 
