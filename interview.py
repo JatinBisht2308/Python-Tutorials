@@ -1,11 +1,15 @@
 # what is python?
+# python is one of the programming langauges which helps in comuunication with the cpu to perform sevral tasks in milli seconds.
 # what is programming language
-# why programming language
-# whay python is python
+# programming language is a language which we use to communicate with the cpu or computer.(as we are using english for our understanding similarly use python for communicating with the cpu.
 # what are the applications of python
-# where we can code
+# pythons can be used in vast area of technology like apps, website, ai and machine learning , game development,etc etc
+# where we can code?
+# writing codes is similar to writing letter to someone who only understands a particular langauge
 # how to use repl effectively
+# log in to repl make your id and then start using it.
 # print statement
+# so as you can see some interface is already opened then you have to click in anywhere right in the center and then start writng. lets print hello cmap k12 ians print("hello camp k12 ians")
 # variables in python
 # operator basic 
 # one question that sir has given me to solve and the students only know that python is only a snake
